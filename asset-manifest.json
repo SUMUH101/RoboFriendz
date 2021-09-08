@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/RoboFriends/build/static/css/main.22c842c2.chunk.css",
-    "main.js": "/RoboFriends/build/static/js/main.e5bdc994.chunk.js",
-    "main.js.map": "/RoboFriends/build/static/js/main.e5bdc994.chunk.js.map",
-    "runtime-main.js": "/RoboFriends/build/static/js/runtime-main.8c2a0d24.js",
-    "runtime-main.js.map": "/RoboFriends/build/static/js/runtime-main.8c2a0d24.js.map",
-    "static/css/2.6d7c7915.chunk.css": "/RoboFriends/build/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.655680bb.chunk.js": "/RoboFriends/build/static/js/2.655680bb.chunk.js",
-    "static/js/2.655680bb.chunk.js.map": "/RoboFriends/build/static/js/2.655680bb.chunk.js.map",
-    "index.html": "/RoboFriends/build/index.html",
-    "static/css/2.6d7c7915.chunk.css.map": "/RoboFriends/build/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.22c842c2.chunk.css.map": "/RoboFriends/build/static/css/main.22c842c2.chunk.css.map",
-    "static/js/2.655680bb.chunk.js.LICENSE.txt": "/RoboFriends/build/static/js/2.655680bb.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/RoboFriends/build/static/media/Gumball.2c507932.woff"
+    "main.css": "/deploytest/static/css/main.bb493d69.chunk.css",
+    "main.js": "/deploytest/static/js/main.91d54372.chunk.js",
+    "main.js.map": "/deploytest/static/js/main.91d54372.chunk.js.map",
+    "runtime-main.js": "/deploytest/static/js/runtime-main.325202c4.js",
+    "runtime-main.js.map": "/deploytest/static/js/runtime-main.325202c4.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/deploytest/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.655680bb.chunk.js": "/deploytest/static/js/2.655680bb.chunk.js",
+    "static/js/2.655680bb.chunk.js.map": "/deploytest/static/js/2.655680bb.chunk.js.map",
+    "index.html": "/deploytest/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/deploytest/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.bb493d69.chunk.css.map": "/deploytest/static/css/main.bb493d69.chunk.css.map",
+    "static/js/2.655680bb.chunk.js.LICENSE.txt": "/deploytest/static/js/2.655680bb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/deploytest/static/media/Gumball.2c507932.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c2a0d24.js",
+    "static/js/runtime-main.325202c4.js",
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.655680bb.chunk.js",
-    "static/css/main.22c842c2.chunk.css",
-    "static/js/main.e5bdc994.chunk.js"
+    "static/css/main.bb493d69.chunk.css",
+    "static/js/main.91d54372.chunk.js"
   ]
 }
