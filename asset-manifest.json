@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/deploytest/static/css/main.bb493d69.chunk.css",
-    "main.js": "/deploytest/static/js/main.91d54372.chunk.js",
-    "main.js.map": "/deploytest/static/js/main.91d54372.chunk.js.map",
-    "runtime-main.js": "/deploytest/static/js/runtime-main.325202c4.js",
-    "runtime-main.js.map": "/deploytest/static/js/runtime-main.325202c4.js.map",
-    "static/css/2.6d7c7915.chunk.css": "/deploytest/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.655680bb.chunk.js": "/deploytest/static/js/2.655680bb.chunk.js",
-    "static/js/2.655680bb.chunk.js.map": "/deploytest/static/js/2.655680bb.chunk.js.map",
-    "index.html": "/deploytest/index.html",
-    "static/css/2.6d7c7915.chunk.css.map": "/deploytest/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.bb493d69.chunk.css.map": "/deploytest/static/css/main.bb493d69.chunk.css.map",
-    "static/js/2.655680bb.chunk.js.LICENSE.txt": "/deploytest/static/js/2.655680bb.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/deploytest/static/media/Gumball.2c507932.woff"
+    "main.css": "/RoboFriendz/static/css/main.2092999a.chunk.css",
+    "main.js": "/RoboFriendz/static/js/main.feb2e3c7.chunk.js",
+    "main.js.map": "/RoboFriendz/static/js/main.feb2e3c7.chunk.js.map",
+    "runtime-main.js": "/RoboFriendz/static/js/runtime-main.a389a222.js",
+    "runtime-main.js.map": "/RoboFriendz/static/js/runtime-main.a389a222.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/RoboFriendz/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.655680bb.chunk.js": "/RoboFriendz/static/js/2.655680bb.chunk.js",
+    "static/js/2.655680bb.chunk.js.map": "/RoboFriendz/static/js/2.655680bb.chunk.js.map",
+    "index.html": "/RoboFriendz/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/RoboFriendz/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.2092999a.chunk.css.map": "/RoboFriendz/static/css/main.2092999a.chunk.css.map",
+    "static/js/2.655680bb.chunk.js.LICENSE.txt": "/RoboFriendz/static/js/2.655680bb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RoboFriendz/static/media/Gumball.2c507932.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.325202c4.js",
+    "static/js/runtime-main.a389a222.js",
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.655680bb.chunk.js",
-    "static/css/main.bb493d69.chunk.css",
-    "static/js/main.91d54372.chunk.js"
+    "static/css/main.2092999a.chunk.css",
+    "static/js/main.feb2e3c7.chunk.js"
   ]
 }
